@@ -4,7 +4,11 @@
 
 I'm Subramanian S, a dedicated individual specializing in Decision & Computing Sciences. I am recognized for a strong work ethic, positive outlook, and eagerness to learn. Committed to personal growth and seeking a successful start to my professional career.
 
+## Collaboration and Communication
+🤝 I thrive both in individual and collaborative settings, ensuring projects are completed promptly. My adept communication and presentation skills enable me to articulate intricate data insights effectively to diverse teams.
 
+## Continuous Learning
+🌟 Keen on staying at the forefront of data science, I am dedicated to ongoing learning. Actively pursuing opportunities to apply my skills, I aim to contribute to impactful projects that resonate with my enthusiasm for analytics.
 
 
 ## Let's Connect!
