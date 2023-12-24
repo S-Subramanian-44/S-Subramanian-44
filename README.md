@@ -13,7 +13,7 @@ I'm a dedicated individual specializing in Decision & Computing Sciences. I am r
 
 ## Let's Connect!
 📫 Feel free to explore my repositories.
-- 📫 How to reach me **subramanian160104@gmail.com@gmail.com**
+- 📫 How to reach me **subramanian160104@gmail.com**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/subramanian-s-ab94302a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanian-s-ab94302a1/" height="30" width="40" /></a>
