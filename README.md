@@ -1,7 +1,4 @@
-### Welcome to My GitHub Profile! 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Subramanian-44&label=Profile%20views&color=0e75b6&style=flat" alt="S-Subramanian-44" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-Subramanian-44&show_icons=true&locale=en" alt="S-Subramanian-44" /></p>
-
----
+### Welcome to My GitHub Profile! 👋 
 
 ## About Me
 
@@ -12,6 +9,8 @@ I'm a dedicated individual specializing in Decision & Computing Sciences. I am r
 
 ## Continuous Learning
 🌟 Keen on staying at the forefront of data science, I am dedicated to ongoing learning. Actively pursuing opportunities to apply my skills, I aim to contribute to impactful projects that resonate with my enthusiasm for analytics.
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=S-Subramanian-44&show_icons=true&locale=en&layout=compact" alt="S-Subramanian-44" /></p>
 
 
 ## Let's Connect!
