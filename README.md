@@ -7,7 +7,7 @@ I'm a dedicated individual specializing in Decision & Computing Sciences. I am r
 
 ## Technical Proficiency
 💻 Proficient in Python, PowerBI, MS Ofiice I also bring skills in SQL, Machine learning, Web development. My projects showcase modeling, data visualization, Web applications, data analysis, and Software innovations.
-- 👨‍💻 All of my projects are available at [https://subramanian-s-160104.netlify.app/](https://subramanian-s-160104.netlify.app/)
+- 👨‍💻 All of my best projects and skills are showcased at [https://subramanian-s-160104.netlify.app/](https://subramanian-s-160104.netlify.app/)
 
 
 ## Collaboration and Communication
