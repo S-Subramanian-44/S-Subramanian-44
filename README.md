@@ -6,7 +6,6 @@
 I'm a dedicated individual specializing in Decision & Computing Sciences. I am recognized for a strong work ethic, positive outlook, and eagerness to learn. Committed to personal growth and seeking a successful start to my professional career.
 
 ## Technical Proficiency
-## Technical Proficiency
 
 - 💻 **Languages & Tools**: Python, SQL, JavaScript, HTML, CSS, PowerBI, MS Office.
   
